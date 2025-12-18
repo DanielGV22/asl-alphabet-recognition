@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Data
+data/roboflow_asl/
+data/landmarks_all.npz
+data/landmarks_splits.npz
+
+# Large media (optional)
+*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
