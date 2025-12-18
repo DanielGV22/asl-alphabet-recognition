@@ -199,6 +199,3 @@ Roboflow for the ASL Object Detection Dataset
 
 MediaPipe for hand landmark extraction
 
-📜 License
-
-This project is intended for educational use as part of the AI Programming course.
