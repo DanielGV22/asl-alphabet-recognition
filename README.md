@@ -2,8 +2,8 @@ ASL Alphabet Recognition
 Real-Time American Sign Language Recognition using Computer Vision and Deep Learning
 
 Course: AI Programming
-Author: (Your Name)
-Due Date: December 18, 2025
+Author: Faniel Gonzalez
+Date: December 18, 2025
 
 📌 Project Overview
 
